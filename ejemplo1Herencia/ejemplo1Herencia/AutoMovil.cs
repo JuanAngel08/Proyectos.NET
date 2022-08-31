@@ -16,5 +16,10 @@ namespace ejemplo1Herencia
 
             CapacidadVehiculo = CapacidadVehiculo;
         }
+
+        public void ImprimirValores()
+        {
+            Console.WriteLine("todos los vehiculos automovil no tienen mas de 5 puestos");
+        }
     }
 }
