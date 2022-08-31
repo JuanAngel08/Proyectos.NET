@@ -1,0 +1,5 @@
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacez.csproj.AssemblyReference.cache
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacez.AssemblyInfoInputs.cache
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacez.AssemblyInfo.cs
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacez.csproj.CoreCompileInputs.cache

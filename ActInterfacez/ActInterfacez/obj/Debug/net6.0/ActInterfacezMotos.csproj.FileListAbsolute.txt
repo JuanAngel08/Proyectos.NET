@@ -1,0 +1,15 @@
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\bin\Debug\net6.0\ActInterfacezMotos.exe
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\bin\Debug\net6.0\ActInterfacezMotos.deps.json
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\bin\Debug\net6.0\ActInterfacezMotos.runtimeconfig.json
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\bin\Debug\net6.0\ActInterfacezMotos.dll
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\bin\Debug\net6.0\ActInterfacezMotos.pdb
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacezMotos.csproj.AssemblyReference.cache
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacezMotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacezMotos.AssemblyInfoInputs.cache
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacezMotos.AssemblyInfo.cs
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacezMotos.csproj.CoreCompileInputs.cache
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacezMotos.dll
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\refint\ActInterfacezMotos.dll
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacezMotos.pdb
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ActInterfacezMotos.genruntimeconfig.cache
+C:\Users\VivoBook\Desktop\Documentos Juan\Informacion Curso .net\Ultimo Modulo\EjemploInterfacez\ActInterfacez\ActInterfacez\obj\Debug\net6.0\ref\ActInterfacezMotos.dll
